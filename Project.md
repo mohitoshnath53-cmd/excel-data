@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18212244.svg)](https://doi.org/10.5281/zenodo.18212244)
 # IoT-Health-Monitoring-Dataset
 Physiological dataset for IoT-based health monitoring using Bi-LSTM
 
